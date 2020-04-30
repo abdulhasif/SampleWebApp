@@ -29,8 +29,8 @@ function view()
     document.getElementById("enrollSet").innerHTML = student[0]
     document.getElementById("nameSet").innerHTML = student[1]
     document.getElementById("ageSet").innerHTML = student[2]
-    document.getElementById("genderSet").innerHTML = student[3]
-    document.getElementById("addressSet").innerHTML = student[4]
+    document.getElementById("genderSet").innerHTML = student[4]
+    document.getElementById("addressSet").innerHTML = student[3]
     document.getElementById("yearSet").innerHTML = student[5]
     document.getElementById("sectionSet").innerHTML = student[6]
 }
